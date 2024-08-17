@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm BaGoDevs</h1>
 
-<!--
-**BaGoDevs/BaGoDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my DevOps learning journey! This repository will be my comprehensive portfolio as I transition into the world of DevOps, starting from scratch. Here, I'll document every project I undertake, from foundational concepts to more advanced practices.
 
-Here are some ideas to get you started:
+As an IT enthusiast with a hands-on approach, I'm eager to dive into DevOps. I believe that by sharing my journey from the very beginning, I can demonstrate that anyone can master DevOps, regardless of their starting point. This repository is designed to be a resource for both myself and others who are on a similar path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'll be following the [DevOps](https://roadmap.sh/devops) roadmap, tackling it step-by-step. Each section will focus on a specific area of DevOps, with detailed explanations, project examples, and key takeaways.
+Objectives:
+
+    Learn and Apply: Document my progress as I learn core DevOps concepts and technologies.
+    Build a Portfolio: Create a solid portfolio showcasing my skills, making it easier for recruiters to see my capabilities.
+    Continuous Improvement: Regularly update this repository with new insights, projects, and skills.
+
+
+<h3 align="left">Current skillset:</h3>
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- Add more technologies as relevant -->
+</p>
